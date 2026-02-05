@@ -6,3 +6,4 @@
 6 luc lác
 7 happ
 8 kookinf oil
+9 type
